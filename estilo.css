@@ -169,33 +169,6 @@ body {
     font-size: calc(1rem * .8);
 }
 
-.login-card-social-btns {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-    
-}
-
-.login-card-social-btns a {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: black;
-    width: 50px;
-    height: 50px;
-    background: white;
-    border-radius: 100px;
-    transition: all .5s;
-
-}
-
-.login-card-social-btns a:hover {
-    background: white;
-    transform: scale(1.1);
-
-}
-
 /* RESPOSIVIDADE */
 
 @media (max-width: 768px) {
